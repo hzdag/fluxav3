@@ -2,4 +2,4 @@
 
 # Open Source Csgo Hack!
 
-# Coder Mert Dağ.
+Coder Mert Dağ.
