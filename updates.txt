@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------------------------------------------------
--Version(1.0)
+[Version(1.0) Güncelleme Notları]
 -Loader deki fazla CPU kullanımı azaltıldı.
 -Junk code eklendi, artık undetected.
 -Aimbot kayma sorununda düzeltmeler yapıldı (Vacnet durumu azaltıldı).
