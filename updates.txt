@@ -1,4 +1,17 @@
 // ---------------------------------------------------------------------------------------------------------------------
+[Version(1.5) Güncelleme Notları]
+-Backtrack fixlendi (Artık 128 tickrate destekliyor).
+-Esp chams (flat) düzeltildi.
+-Loader cpu kullanımı düşürüldü.
+-VMT hook'lar güncellendi artık undetected.
+-Profile changer beta geldi.
+-Medals changer eklendi.
+-Inventory changer kaldırıldı (Vac riskinden dolayı).
+-Radar hack kaldırıldı (İstek üzerine).
+-Skinchanger yeni eldivenler eklendi.
+-Loader artık yavaş hale getirildi vac riski azaltıld.
+// ---------------------------------------------------------------------------------------------------------------------
+// ---------------------------------------------------------------------------------------------------------------------
 [Version(1.0) Güncelleme Notları]
 -Loader de ki fazla CPU kullanımı azaltıldı.
 -Junk code eklendi, artık undetected.
