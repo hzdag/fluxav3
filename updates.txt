@@ -5,5 +5,5 @@
 -Aimbot kayma sorununda düzeltmeler yapıldı (Vacnet durumu azaltıldı).
 -Esp de CPU dan çok kullanım azaltıldı (Fps artışı sağlandı).
 -Skinchanger de düzeltmeler yapıldı artık biraz daha stabil.
--Panorama giririş fixlendi.
+-Panorama giriş düzeltildi.
 // ---------------------------------------------------------------------------------------------------------------------
