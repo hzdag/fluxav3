@@ -4,7 +4,7 @@
 -Esp chams (flat) düzeltildi.
 -Loader cpu kullanımı düşürüldü.
 -VMT hook'lar güncellendi artık undetected.
--Profile changer beta geldi.
+-Profile changer beta eklendi.
 -Medals changer eklendi.
 -Inventory changer kaldırıldı (Vac riskinden dolayı).
 -Radar hack kaldırıldı (İstek üzerine).
