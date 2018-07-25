@@ -6,7 +6,7 @@
 -VMT hook'lar güncellendi artık undetected.
 -Profile changer beta eklendi.
 -Medals changer eklendi.
--Inventory changer kaldırıldı (Vac riskinden dolayı).
+-Inventory changer kaldırıldı (Vac ban riskinden dolayı).
 -Radar hack kaldırıldı (İstek üzerine).
 -Skinchanger yeni eldivenler eklendi.
 -Loader artık yavaş hale getirildi vac riski azaltıldı.
