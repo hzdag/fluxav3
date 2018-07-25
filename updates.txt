@@ -2,10 +2,9 @@
 [Version(1.0) Güncelleme Notları]
 -Loader deki fazla CPU kullanımı azaltıldı.
 -Junk code eklendi, artık undetected.
--Aimbot kayma sorununda düzeltmeler yapıldı (Vacnet durumu azaltıldı).d
--Junk code eklendi, artık undetected.
--Junk code eklendi, artık undetected.
+-Aimbot kayma sorununda düzeltmeler yapıldı (Vacnet durumu azaltıldı).
 -Esp de CPU dan çok kullanım azaltıldı (Fps artışı sağlandı).
 -Skinchanger de düzeltmeler yapıldı artık biraz daha stabil.
 -Panorama giriş düzeltildi.
 // ---------------------------------------------------------------------------------------------------------------------
+
