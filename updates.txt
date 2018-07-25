@@ -9,7 +9,8 @@
 -Inventory changer kaldırıldı (Vac riskinden dolayı).
 -Radar hack kaldırıldı (İstek üzerine).
 -Skinchanger yeni eldivenler eklendi.
--Loader artık yavaş hale getirildi vac riski azaltıld.
+-Loader artık yavaş hale getirildi vac riski azaltıldı.
+-ananızun amu
 // ---------------------------------------------------------------------------------------------------------------------
 // ---------------------------------------------------------------------------------------------------------------------
 [Version(1.0) Güncelleme Notları]
