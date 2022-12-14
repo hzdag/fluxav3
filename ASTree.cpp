@@ -1162,8 +1162,7 @@ PycRef<ASTNode> BuildFromCode(PycRef<PycCode> code, PycModule* mod)
                 stack.pop();
                 stack.push(new ASTBinary(left, right, ASTBinary::BIN_IP_XOR));
             }
-            break;
-		case Pyc::JUMP_IF_NOT_EXC_MATCH_A:	
+            break;	
         case Pyc::INPLACE_MATRIX_MULTIPLY:
             {
                 PycRef<ASTNode> right = stack.top();
@@ -1183,6 +1182,7 @@ PycRef<ASTNode> BuildFromCode(PycRef<PycCode> code, PycModule* mod)
                 stack.push(new ASTCompare(left, right, operand ? ASTCompare::CMP_IS_NOT : ASTCompare::CMP_IS));
             }
             break;
+		case Pyc::JUMP_IF_NOT_EXC_MATCH_A:	
         case Pyc::JUMP_IF_FALSE_A:
         case Pyc::JUMP_IF_TRUE_A:
         case Pyc::JUMP_IF_FALSE_OR_POP_A:
